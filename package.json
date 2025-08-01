@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/akiojin/checkout-with-gitlfs-github-action#readme",
   "devDependencies": {
-    "@types/node": "22.15.29",
+    "@types/node": "24.1.0",
     "rimraf": "5.0.5"
   },
   "private": true
